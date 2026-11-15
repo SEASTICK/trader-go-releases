@@ -1,0 +1,31 @@
+{
+  "version": "0.1.29",
+  "notes": "# TraderGO – Research Lab för Fas 2\n\n- Ny separat H-0013-vy i Research Lab med låsta forskningsinställningar, köstatus, förlopp och avbrott.\n- Verifierade resultat visar beslutskriterier, osäkerhet, jämförelsekurvor, marknadslägen, kandidatval och affärer.\n- Kodrevision, dataversion och kontrollsummor följer resultatet. Saknade uppgifter visas tydligt.\n- Platta kapital- och drawdownkurvor visas korrekt. Resultathämtning kan återhämta sig efter anslutningsfel.\n- Tydligare felmeddelande vid nekad inloggning.\n\nEndast historisk forskning och papper. Ingen livehandel och inget automatiskt godkännande av strategier för papper eller live.",
+  "pub_date": "2026-11-14T14:09:02Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmlKRExiT3NZN0F2bXdEcmtxVG8zNHMvaEFQa2FLVTV6bW9YNmJ1Y1M2VmF1Zkl1M0VuSUdEQUhwUU1paHA5SnNWUk1zaUJRZWk3TUJIOFVmdEFSUEZ4Z3l4aHhnR0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjY1MjE5CWZpbGU6VHJhZGVyR08gVW5pdmVyc2UgVGVzdF8wLjEuMjlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4yOQpyZmVaQVFmSm9XTGhMT25ZSkxIbzFVNTBUWlBIZUI5WUtQSHhEMFJzNDRUQ0ZiVytJSjNPUCs0YnduNmNEYkthTHNYd2hkKzkzWFh3cktLN0V1UXVCUT09Cg==",
+      "url": "https://seastick.github.io/trader-go-releases/test/universe/TraderGO-Universe_0.1.29_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmlKRExiT3NZN0F2bXdEcmtxVG8zNHMvaEFQa2FLVTV6bW9YNmJ1Y1M2VmF1Zkl1M0VuSUdEQUhwUU1paHA5SnNWUk1zaUJRZWk3TUJIOFVmdEFSUEZ4Z3l4aHhnR0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjY1MjE5CWZpbGU6VHJhZGVyR08gVW5pdmVyc2UgVGVzdF8wLjEuMjlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4yOQpyZmVaQVFmSm9XTGhMT25ZSkxIbzFVNTBUWlBIZUI5WUtQSHhEMFJzNDRUQ0ZiVytJSjNPUCs0YnduNmNEYkthTHNYd2hkKzkzWFh3cktLN0V1UXVCUT09Cg==",
+      "url": "https://seastick.github.io/trader-go-releases/test/universe/TraderGO-Universe_0.1.29_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmlKRExiT3NZN0w0TE5mcUNMN0Z4c2ZKSldVbmZWbDQwZkpmZFZ5V3RKNVg1Q3RlZ1BtRVJlUEpoSHlZZVRRcXh6REdBbmN2OU0yYTBvTWU0SkR6K1ZMdDRpOXBzeHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjY1Mjk5CWZpbGU6VHJhZGVyR08gVW5pdmVyc2UgVGVzdC5hcHAudGFyLmd6CXZlcnNpb246MC4xLjI5Ckw2SEtzV1pNWEhaK3lWaGNZWHZXSlpNdUs2elAwRkowQlAyQldQdlZHOERTbGMwTFJyUUh6dzI1NDdlQytrSzZIS1B4eHZwNkJVbXlRWjJDS091bEJRPT0K",
+      "url": "https://seastick.github.io/trader-go-releases/test/universe/TraderGO-Universe_0.1.29_universal.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmlKRExiT3NZN0w0TE5mcUNMN0Z4c2ZKSldVbmZWbDQwZkpmZFZ5V3RKNVg1Q3RlZ1BtRVJlUEpoSHlZZVRRcXh6REdBbmN2OU0yYTBvTWU0SkR6K1ZMdDRpOXBzeHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjY1Mjk5CWZpbGU6VHJhZGVyR08gVW5pdmVyc2UgVGVzdC5hcHAudGFyLmd6CXZlcnNpb246MC4xLjI5Ckw2SEtzV1pNWEhaK3lWaGNZWHZXSlpNdUs2elAwRkowQlAyQldQdlZHOERTbGMwTFJyUUh6dzI1NDdlQytrSzZIS1B4eHZwNkJVbXlRWjJDS091bEJRPT0K",
+      "url": "https://seastick.github.io/trader-go-releases/test/universe/TraderGO-Universe_0.1.29_universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmlKRExiT3NZN0w0TE5mcUNMN0Z4c2ZKSldVbmZWbDQwZkpmZFZ5V3RKNVg1Q3RlZ1BtRVJlUEpoSHlZZVRRcXh6REdBbmN2OU0yYTBvTWU0SkR6K1ZMdDRpOXBzeHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjY1Mjk5CWZpbGU6VHJhZGVyR08gVW5pdmVyc2UgVGVzdC5hcHAudGFyLmd6CXZlcnNpb246MC4xLjI5Ckw2SEtzV1pNWEhaK3lWaGNZWHZXSlpNdUs2elAwRkowQlAyQldQdlZHOERTbGMwTFJyUUh6dzI1NDdlQytrSzZIS1B4eHZwNkJVbXlRWjJDS091bEJRPT0K",
+      "url": "https://seastick.github.io/trader-go-releases/test/universe/TraderGO-Universe_0.1.29_universal.app.tar.gz"
+    },
+    "darwin-x86_64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmlKRExiT3NZN0w0TE5mcUNMN0Z4c2ZKSldVbmZWbDQwZkpmZFZ5V3RKNVg1Q3RlZ1BtRVJlUEpoSHlZZVRRcXh6REdBbmN2OU0yYTBvTWU0SkR6K1ZMdDRpOXBzeHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjY1Mjk5CWZpbGU6VHJhZGVyR08gVW5pdmVyc2UgVGVzdC5hcHAudGFyLmd6CXZlcnNpb246MC4xLjI5Ckw2SEtzV1pNWEhaK3lWaGNZWHZXSlpNdUs2elAwRkowQlAyQldQdlZHOERTbGMwTFJyUUh6dzI1NDdlQytrSzZIS1B4eHZwNkJVbXlRWjJDS091bEJRPT0K",
+      "url": "https://seastick.github.io/trader-go-releases/test/universe/TraderGO-Universe_0.1.29_universal.app.tar.gz"
+    }
+  }
+}
